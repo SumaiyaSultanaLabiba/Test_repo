@@ -1,3 +1,3 @@
 # Testing for the next project
 
-this is some trals.
+this is some trials.
